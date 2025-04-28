@@ -9,7 +9,7 @@
 local g = game.PlaceId
 
 if g == 70376491523199 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Night322/Youth-2544/refs/heads/main/HipHop.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Night322/HipHop/refs/heads/main/Youth%202544.lua"))()
 elseif g == 118602396557628 then
     loadstring(game:HttpGet(""))()
 else
